@@ -9,6 +9,17 @@ reolink and up to 5 Sets of waterproof string lights.
 QILIPSU Waterproof Junction Box IP67 Outdoor Plastic Electrical Project Enclosure Weatherproof with Mounting Plate, Wall
 Brackets, Hinged Grey Cover 16.1"x12.2"x7.1"
 Link: <https://www.amazon.com/dp/B08ZRR2DJX>
+Manufacturer Link: <https://qilipsu.com/product-232.html>
+
+- Name:: QL-413118AGH Hinged Cover Junction Box with Mounting Plate
+- Color: Grey
+- Material:: ABS plastic
+- Certificate: IP67,CE, RoHS
+- Dimensions (mm): 410 x 310 x 180mm(LWH)
+- Dimensions (in): 16.1
+- Package Include: 1 x Junction box ,1 x Mounting plate, 4x Metal screws, 4 x Mounting kits
+
+About product text:
 
 IP67 Waterproof: This waterproof junction box features an IP67 rating, providing reliable protection against water, dust
 , and other environmental challenges. Its robust design is perfect for both indoor and outdoor applications, ensuring
@@ -36,16 +47,27 @@ after-sales service to ensure reliable support whenever you need it. If you have
 contact us for a prompt and helpful response
 
 Product Dimensions: 16.1 x 12.2 x 7.1 inches; 6.75 Pounds
-Item model number: QL-413118AGH
-Date First Available: May 6, 2021
-Manufacturer : YUEQING QILI ELECTRICAL CO.,LTD.
-ASIN : B08ZRR2DJX
+
+- Item model number: QL-413118AGH
+- Date First Available: May 6, 2021
+- Manufacturer : YUEQING QILI ELECTRICAL CO.,LTD.
+- ASIN : B08ZRR2DJX
+- Imperial Internal dimensions: 11.18 in wide by 15.11 in length
+- Metric Internal dimensions: 284 mm wide by 385 mm
+
+### Backplate measurements  
+
+metric width: 271 mm  
+metric length: 371 mm  
 
 ## Cable Glands
 
-PG11
+PG11 glands, generic plasic with a rubber seal. I will make holes in the case using a 3/4 inch milwalkee hole saw.
 
 ## Batterry
+
+This battery will be powering everything at night and will be charged by the MPPT. It should have one of the breakers
+listed below connected using the THHN wiring.
 
 I have the following battery.  
 ECO-WORTHY 12V 20Ah LiFePO4 Lithium Battery.  
@@ -64,46 +86,52 @@ Discharging Temperature: -4~131 F/ -20~55 C
 
 ## Solar Panels
 
-I have a Pair of the panels below with required connectors
+I have a Pair of the panels below with required connectors. I have not decided if they should be connected in series or
+parallel.
 
-Model: ZMS331-2-AKIT-2-XT60i  
-Rated Power: EF-SG-M100  
-Open-Circuit Voltage: 100 + or - 5W  
-Short-Circuit Voltage: 20.3v  
-Short-Circuit Current: 6.3A  
-Maximum Operating Voltage: 17.1v  
-Maximum Operating Current: 5.9A  
-Temp Coefficient of Pmax: -0.39%  
-Temp Coefficient of Voc: -0.33%  
-Temp Coefficient of Isc: -0.06%  
-Max System Voltage: 600VDC(UL)  
-Maximum Series Fuse: 15A  
-Fire Rating: Class C  
-Weight: 6.2 kg  
-STC: AM=1.5,E=1000w/m3, T=25 C  
-Execution Standard: Q/EF 001-2023
+- Model: ZMS331-2-AKIT-2-XT60i  
+- Rated Power: EF-SG-M100  
+- Open-Circuit Voltage: 100 + or - 5W  
+- Short-Circuit Voltage: 20.3v  
+- Short-Circuit Current: 6.3A  
+- Maximum Operating Voltage: 17.1v  
+- Maximum Operating Current: 5.9A  
+- Temp Coefficient of Pmax: -0.39%  
+- Temp Coefficient of Voc: -0.33%  
+- Temp Coefficient of Isc: -0.06%  
+- Max System Voltage: 600VDC(UL)  
+- Maximum Series Fuse: 15A  
+- Fire Rating: Class C  
+- Weight: 6.2 kg  
+- STC: AM=1.5,E=1000w/m3, T=25 C  
+- Execution Standard: Q/EF 001-2023
 
 ## MPPT and Charge Controller
+
+This is the heart of the system, it is not the "Li" version. I linked to a rebranded version.
 
 Rover 20 Amp 12V/24V DC Input MPPT Solar Charge Controller Auto Parameter Adjustable LCD Display  
 link: <https://business.walmart.com/ip/20-Amp-MPPT-Solar-Charge-Controller/247430424>
 
-ATTRIBUTE: VALUE  
-Nominal System Voltage: 12V/24V Auto Recognition  
-Rated Battery Current: 20A  
-Rated Load Current: 20A  
-Max. PV Input Short Current: 25A  
-Max. Battery Voltage: 32V  
-Max Solar Input Voltage: 100 VDC  
-Mounting Oval: 0.30 x 0.18 in  
-Net Weight: 3.08 lb  
-Discharge Circuit Voltage Drop: 0.15V  
-Product dimensions: 210* 151 *59.5mm  
-Hole positions: 154\* 131mm  
-Hole diameter: 3mm radius  
-Applicable wire: max. 8 AWG
+ATTRIBUTE: VALUE
 
-## MPPT Bluetooth Manual
+- Nominal System Voltage: 12V/24V Auto Recognition  
+- Rated Battery Current: 20A  
+- Rated Load Current: 20A  
+- Max. PV Input Short Current: 25A  
+- Max. Battery Voltage: 32V  
+- Max Solar Input Voltage: 100 VDC  
+- Mounting Oval: 0.30 x 0.18 in  
+- Net Weight: 3.08 lb  
+- Discharge Circuit Voltage Drop: 0.15V  
+- Product dimensions: 210*151*59.5mm  
+- Hole positions: 154\*131mm  
+- Hole diameter: 3mm radius  
+- Applicable wire: max. 8 AWG
+
+## MPPT Bluetooth Adapter
+
+This device connects directly to the MPPT and provides bluetooth information.
 
 BT-1 Bluetooth Module  
 Link: <https://www.renogy.com/bt-1-bluetooth-module-new-version/>
@@ -119,6 +147,8 @@ Weight: 130g (4.58oz)
 
 ## Cabling
 
+This wiring is to be used inside the enclosure to get things running. Input will be from a dedicatted pg11 gland and 
+
 Southwire THHN
 
 5ft of Red 14 AWG Solid Core
@@ -126,11 +156,15 @@ Southwire THHN
 5ft of Red 12 AWG Solid Core
 5ft of Black 12 AWG Solid Core
 
-## Gland Seal
+## Gland Sealant
 
-DAP ultra Clear flexible all purpose sealant
+DAP ultra Clear flexible all purpose sealant. I wil seal up the glands when complete using this product.
 
 ## LED Strings
+
+These will be interwoven with the string trellis that my jamine vine is growing on. We are starting with 2 sets, but we
+will expand to 5 or more eventually. They will be connected using the water proof connectors listed below and will
+recieve power through an appropriatly sized DC breaker.
 
 I have 2 of these, but willl expand to 5
 BTF-LIGHTING WS2811 Diffused Digital RGB LED Pixel String Light 12mm Individually Addressable Round LED Module
@@ -161,6 +195,9 @@ Average Life: 50000 Hours
 
 ## 20 AMP Breaker
 
+These are used to protect internal circuits. They will be connected using either red or blak THHN 12 or 14 AWG solid
+core wiring. They will be mounted using a 4 inch DIN rail that will be secured to the backblate with zipties.
+
 DC Miniature Circuit Breaker 12V-110V Circuit Breaker 1Pole 20Amp Smart Circuit Breaker DIN Rail Mount for Battery Power
 Systems,Solar photovoltaic Systems(C20A)  
 Link:<https://www.amazon.com/gp/product/B0BYS9B9JP>
@@ -179,6 +216,9 @@ About this item
 
 ## 15 AMP Breaker
 
+These are used to protect internal circuits. They will be connected using either red or blak THHN 12 or 14 AWG solid
+core wiring. They will be mounted using a 4 inch DIN rail that will be secured to the backblate with zipties.
+
 12V-110V DC Miniature Circuit Breaker, 15 Amp 2 Pole Battery Breaker Protector for Solar PV System and RV, Thermal
 Magnetic Trip, DIN Rail Mount, Chtaixi DC Disconnect Switch B15  
 Link: <https://www.amazon.com/gp/product/B09H4W4NYG>
@@ -194,6 +234,9 @@ About this item
 
 ## 10 AMP Breaker
 
+These are used to protect internal circuits. They will be connected using either red or blak THHN 12 or 14 AWG solid
+core wiring. They will be mounted using a 4 inch DIN rail that will be secured to the backblate with zipties.
+
 12V-110V DC Miniature Circuit Breaker, 10 Amp 1 Pole Battery Breaker Protector for Solar PV System and RV, Thermal
 Magnetic Trip, DIN-Rail/Surface Mount, Chtaixi DC Disconnect Switch B10
 Link: <https://www.amazon.com/gp/product/B09H4W5HSW>
@@ -206,6 +249,140 @@ About this item
 - CURVE B: Magnetic trip range 4-7 times rated current.
 - APPLICATION: Used in battery power systems, solar photovoltaic systems, RV, electric moped, or other DC systems.
 - INSTALLATION: Screw clamps wire or M5 wire lug (size fits), 35 mm DIN rail mount or surface mount.
+
+## Zipties
+
+there is a requirement that the zipties be smaller than 3 mm or .12 inches. It was hard to find but I was able to get
+the item below. Howevery they are not thin enough, but work with some force. These will be used to secure items within
+the case as I do not with to use nuts and bolts gebn the dimensional challenges.  
+
+Name: 8 Inch Black Zip Ties (1200 Pack), 35 LBS Tensile Strength, Self-Locking Nylon PA66 UV Resistant Cable Ties for
+Indoor and Outdoor Use  
+Links:<https://www.amazon.com/dp/B0D5M2X835>  
+ASIN: B0D5M2X835  
+
+Technical Details  
+
+- Material: Nylon
+- Color: Black
+- Brand: Eletoo
+- Item Length: 8 Inches
+- Style: Zip
+- Maximum Diameter: 0.12 Inches
+- Number of Pieces: 1200
+- Tensile Strength: 35 Pounds
+- Manufacturer: Eletoo
+- Item Weight: 1.63 pounds
+- Country of Origin: China
+- Item model number: 3*200-B-1000PCS
+- Size: 8inch (1200 PCS)
+- Batteries Required?: No
+
+## 3 pin Connectors for lightstrips
+
+I needed water proof connectors for the LED strings. I chose the ones below. They will get power from within the
+enclosure through a pg11 gland and then connected to the string lights.
+
+Name: 3 Pin Electrical Connector, 3 Core Outdoor LED Connector 20AWG IP68 Male Female Plug LED Connectors with 20CM
+Cable,for Car,Truck,Ship Equipment,Outdoor LED Strip Lights.(5 Pairs，3P LED)  
+Links: <https://www.amazon.com/dp/B09SPTLMCF>  
+ASIN: B09SPTLMCF  
+
+Technical Details  
+
+- Connector Specifications: 3 pin male and female waterproof connectors, male plug and female socket connector wire
+with 20cm 20 AWG cable respectively.  
+- Widely Used: 3 core LED connector is widely used for motorcycles, cars, trucks, boats, indoor and outdoor single
+color LED strips and strings.  
+- High Quality Material: This LED waterproof connector is made of pure copper core wire with pre-soldered pigtails for
+easy soldering. Reliable and lightweight. Can be used for quick connection of automobile, boat, LED lights.  
+- Use Scenario: Male to female connector is a very useful accessory when installing LED waterproof lights. Waterproof
+rating IP67, can adapt to outdoor rain, wind, sand and other bad weather. Do not immerse in water.  
+- Product Features:This 3 pole LED connector is compact in size and can be easily installed into more narrow spaces.
+The male and female plugs are plug-and-play design, which can be easily and quickly connected and disconnected.  
+- TIP: The plug and socket of this 20AWG 3 Pin connector is a factory customized product and is not compatible with
+other products on the market.  
+- Package includes: 5 pairs 3 pin nut waterproof LED connectors.
+Please check the suitability of this product for your equipment at the time of purchase to minimize unnecessary returns!
+
+- Brand: WOODGUILIN
+- Manufacturer: WOODGUILIN
+- Item Weight: 3.73 ounces
+- Package Dimensions: 7.28 x 5.24 x 0.59 inches
+- Country of Origin: China
+- Item model number: LED-3P-20-AWG
+- Assembled Diameter: 1.2 centimeters
+- Item Package Quantity: 5
+- Style: 20AWG
+- Color: Black
+- Shape: Linear
+- Material: quality silicone
+- Maximum Compatible Wattage: 770 Watts
+- Voltage: 300 Volts
+- Specific Uses: Waterproof
+- Special Features: waterproof
+- Power Source: DC
+- Switch Installation Type: Pluggable
+- Batteries Included?: No
+- Batteries Required?: No
+- Type of Bulb: LED
+- Wattage: 660 watts
+
+## Batery Temp Sensor  
+
+The renology Device makes use of a battery sensor to help with charching, this will be affixed to the side of the
+battery using kaptom tape.  
+
+Name: Renogy Temperature Sensor Battery Solar 118 0.03, Compatible Adventurer/Rover Charge Controllers  
+Links: <https://www.amazon.com/dp/B07WMMJFWY>  
+ASIN: B07WMMJFWY  
+
+About this item
+
+- Compatible with Renogy Adventurer ,Wanderer, Rover and Rover Elite series controllers.
+- Non-polarized wires are insulated and protected from harsh environments.
+- Wide Temperature Compensation Range up to 176℉.
+- ROHS compliance and rated for outdoor use.
+- Cable length: 118 in.
+
+Technical Details  
+
+- Brand: Renogy  
+- Imperial Item dimensions L x W x H: 118 x 0.03 x 0.03 inches  
+- Material: Lithium  
+- Style: Modern  
+- Measurement Accuracy: +/- 3 degrees Celsius or +/- 5 degrees Fahrenheit  
+- Measuring Range: 176°F  
+- Mounting Type: Flange Mount  
+- Output Type: analog or digital  
+- Specific Uses For Product: Temperature  
+- Upper Temperature Rating: 176 Degrees Fahrenheit  
+- UPC: 810009712497  
+- Global Trade Identification Number: 00810009712497  
+- Item Weight: 3.38 ounces  
+- ASIN: B07WMMJFWY  
+- Country of Origin: China  
+- Item model number: Battery Temperature Sensor  
+
+## Unknown 2
+
+I needed water proof connectors for the LED strings. I chose the ones below.
+
+Name:  
+Links: <>  
+ASIN:  
+
+Technical Details  
+
+## Unknown 3
+
+I needed water proof connectors for the LED strings. I chose the ones below.
+
+Name:  
+Links: <>  
+ASIN:  
+
+Technical Details  
 
 ## Requirements and notes
 
