@@ -159,6 +159,53 @@ Batteries Included?: No
 Batteries Required?: No
 Average Life: 50000 Hours
 
+## 20 AMP Breaker
+
+DC Miniature Circuit Breaker 12V-110V Circuit Breaker 1Pole 20Amp Smart Circuit Breaker DIN Rail Mount for Battery Power
+Systems,Solar photovoltaic Systems(C20A)  
+Link:<https://www.amazon.com/gp/product/B0BYS9B9JP>
+
+About this item
+
+- Product name: DC circuit breaker, Model: LKB18Z-L-1P, Rated voltage: 12-110VDC, Number of poles:1pole,
+  Rated current: 20A
+- Arc extinguishing system: DC miniature circuit breaker with built-in arc extinguishing magnetic field system,
+  auxiliary arc extinguishing, safe and stable operation.
+- Safety: Capable of tripping immediately when the circuit is short-circuited to protect the safety of the circuit and
+  can be easily mounted on a DIN rail.
+- Suitable for protecting power distribution facilities from overload and short circuit damage, for DC power systems,
+  solar photovoltaic systems, electric motorbikes, caravans, etc.
+- For after-sales service, feel free to contact us with any questions, we have a professional team to help you!
+
+## 15 AMP Breaker
+
+12V-110V DC Miniature Circuit Breaker, 15 Amp 2 Pole Battery Breaker Protector for Solar PV System and RV, Thermal
+Magnetic Trip, DIN Rail Mount, Chtaixi DC Disconnect Switch B15  
+Link: <https://www.amazon.com/gp/product/B09H4W4NYG>
+
+About this item
+
+- FUNCTIONS: Used to protect 12V 24V 36V 48V 60V 100V DC circuit from overload and short circuit damage, and can also
+  be used for control and isolation.
+- FAST TRIP: The electromagnetic trip system can trip immediately when short-circuited.
+- CURVE B: Magnetic trip range 4-7 times rated current.
+- APPLICATION: Used in battery power systems, solar photovoltaic systems, RV, electric moped, or other DC systems.
+- INSTALLATION: Screw clamps wire or M5 wire lug (size fits), 35 mm DIN rail mount.
+
+## 10 AMP Breaker
+
+12V-110V DC Miniature Circuit Breaker, 10 Amp 1 Pole Battery Breaker Protector for Solar PV System and RV, Thermal
+Magnetic Trip, DIN-Rail/Surface Mount, Chtaixi DC Disconnect Switch B10
+Link: <https://www.amazon.com/gp/product/B09H4W5HSW>
+
+About this item
+
+- FUNCTIONS: Used to protect 12V 24V 36V 48V 60V 100V DC circuit from overload and short circuit damage, and can also be
+  used for control and isolation.
+- ARC EXTINGUISHING: This DC mini circuit breaker has a magnetic system to assist arc extinguishing.
+- CURVE B: Magnetic trip range 4-7 times rated current.
+- APPLICATION: Used in battery power systems, solar photovoltaic systems, RV, electric moped, or other DC systems.
+- INSTALLATION: Screw clamps wire or M5 wire lug (size fits), 35 mm DIN rail mount or surface mount.
 
 ## Requirements and notes
 
